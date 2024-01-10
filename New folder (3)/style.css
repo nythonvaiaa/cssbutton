@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(1, 6, 3);
+}
+h2{
+    color: white;
+    text-align: center;
+    margin-right: 450px;
+    margin-bottom: 40px;
+}
+.link0{
+    font-weight: bold;
+    color: white;
+}
+.link0:hover{
+    color: rgb(38, 209, 38);
+}
+.div1{
+    margin-left: 450px;
+    margin-top: 250px;
+}
+.link1{
+    margin-left: 10px;
+    color: green;
+    text-decoration: none;
+}
+.link1:hover{
+    text-decoration: underline;
+}
+.link2{
+    margin-left: 20px;
+    border: 2px solid green;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+.link2:hover{
+    background-color: green;
+}
+.link3{
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(177, 60, 60);
+    padding: 14px;
+}
+.link3:hover{
+    background-color: red;
+}
